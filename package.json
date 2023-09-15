@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "asin-extractor-from-url",
-  "title": "ASIN extractor from URL",
-  "description": "",
+  "name": "asin-extractor",
+  "title": "ASIN extractor",
+  "description": "asin extractor from clipboard",
   "icon": "command-icon.png",
   "author": "numtet",
   "owner": "korogaruishi",
   "license": "MIT",
   "commands": [
     {
-      "name": "asin-extractor-from-url",
-      "title": "asin_extractor_from_url",
+      "name": "asin-extractor",
+      "title": "asin_extractor",
       "description": "",
       "mode": "view"
     }
